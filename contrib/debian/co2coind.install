@@ -1,0 +1,2 @@
+debian/bin/co2coind usr/bin
+src/co2coind usr/lib/co2coin

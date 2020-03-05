@@ -1,0 +1,5 @@
+co2coin-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/co2coin-qt.desktop usr/share/applications
+debian/co2coin-qt.protocol usr/share/kde4/services/
